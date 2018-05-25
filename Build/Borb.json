@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Borb.data.unityweb",
+"asmCodeUrl": "Borb.asm.code.unityweb",
+"asmMemoryUrl": "Borb.asm.memory.unityweb",
+"asmFrameworkUrl": "Borb.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
